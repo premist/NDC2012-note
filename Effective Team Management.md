@@ -1,5 +1,5 @@
-### Effective Team Management
-##### JC Park (Software Engineer / Blizzard)
+# Effective Team Management
+### JC Park (Software Engineer / Blizzard)
 
 ### 강의자 이력
 한글과컴퓨터, Blizzard
