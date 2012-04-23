@@ -59,15 +59,18 @@
 - **넌 Focus가 약하기 때문에 항상 막판에 집중이 흐려져서 게임 출시 일정에 지장이 있기에 보너스를 못받는거야!** 같이 정확한 이유를 설명해줄 것
 - 각 분야를 세분화 할 것. Technology에 "C++", "DB/SQL 지식", "새 언어를 배우는 능력" 식으로.
 - 어떤 것을 잘 하는지, 어떤 것을 개선해야 하는지 간간히 명시해줄 것
+
 #### Review Improvements
 - **Goal -> Plan -> Action** : 최강/최약의 카테고리 두개 고르기
 - 정확하게 실천할 수 있는 Plan을 줄 것
 - 같은 팀 내에서 자신과 같은 카테고리의 다른 사람들을 평가하게 하고, 롤 모델을 만들게 할 것
 - 챌린지에 대한 반응을 보고 그 사람을 가늠할 수 있다
+
 #### Employee Opinion Survey
 - Core Value에 관해 회사가 잘 실천하고 있는지를 조사
 - 우리 회사의 강점/약점 몇 개를 파악하고, 더 나은 작업 환경을 위해 노력하기 
 - 일하기 좋은 환경, 문화로 연결되는 사람들
+
 #### Individual Development Plan
 - 계획을 세우고, 회사 작업 이외의 다른 노력을 해야 마스터가 될 수 있다
 - 원하는 것과 해줄 수 있는 것을 판단해라
@@ -76,6 +79,7 @@
 - 그 활동을 위해 필요한 것들
 - 목표를 달성했을 때 회사의 이득
 - 머릿속에만 있는 게 아니라, 체계적으로 남겨야 함
+
 #### Development Activities
 - Engineering discussion groups
 - Programming test
@@ -86,6 +90,7 @@
 - Conferences
 - 공부를 많이 할 수 있도록 지원해주는 것이 회사에도 이익
 - 자신이나 팀원의 발전 여부를 알 수 없다면 실패한 것이다
+
 #### Development Rules
 - Potential vs Capacity
 - 자신의 Capacity를 알아야 그 한계를 넘을 수 있다
